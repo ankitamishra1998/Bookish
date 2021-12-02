@@ -71,7 +71,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section >
-            Hello World! 
+            Hello World!! This is a test.
           </Section>
           
         </View>
